@@ -2,6 +2,15 @@
 Some basic common tools for making life some extent easy :)
 I am trying to play with python. 
 
+### birthday_paradox.py
+**Objective:**
+To demonstrate/simulate Birthday Paradox
+
+**Usage:**
+```
+python birthday_paradox.py
+```
+
 ### bulk_wordpress_scanner.py
 **Objective:**
 Bulk Wordpress Scanner
